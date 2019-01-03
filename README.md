@@ -15,13 +15,13 @@ On digits Classifaction, I have runed two experiments and have received satisfac
 #### 1. Sv+Mm+Sy-->Mt
 Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
 <center class="half">
-    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png" width="350"/>
-    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png" width="350"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png" width="320"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png" width="320"/>
 </center>
 
 #### 2. Sv+Mt+Sy-->Mm
 Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
 <center class="half">
-    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_d_acc.png" width="350"/>
-    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_tar_acc.png" width="350"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_d_acc.png" width="320"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_tar_acc.png" width="320"/>
 </center>
