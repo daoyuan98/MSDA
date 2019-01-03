@@ -13,15 +13,13 @@ There a lot of codes that can be written more elegently so if you are interested
 On digits Classifaction, I have runed two experiments and have received satisfactory results. 
 
 #### 1. Sv+Mm+Sy-->Mt
-Domain Accurarcy and Iteration.
+Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
 ![1_dacc](https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png)
 
-Model Accurarcy on Target Domain
 ![1_tar_acc](https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png)
 
 #### 2. Sv+Mt+Sy-->Mm
-Domain Accuracy and Iteration
+Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
 ![2_dacc](https://github.com/daoyuan98/MSDA/blob/master/images/2_d_acc.png)
 
-Model Accurarcy on Target Domain
 ![2_tar_acc](https://github.com/daoyuan98/MSDA/blob/master/images/2_tar_acc.png)
