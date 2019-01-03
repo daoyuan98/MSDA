@@ -15,12 +15,13 @@ On digits Classifaction, I have runed two experiments and have received satisfac
 #### 1. Sv+Mm+Sy-->Mt
 Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
 <center class="half">
-    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png" width="200"/><img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png" width="200"/><img src="图片链接" width="200"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png" width="350"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png" width="350"/>
 </center>
-
-
-![1_dacc](https://github.com/daoyuan98/MSDA/blob/master/images/1_d_acc.png) ![1_tar_acc](https://github.com/daoyuan98/MSDA/blob/master/images/1_tar_acc.png)
 
 #### 2. Sv+Mt+Sy-->Mm
 Domain Accurarcy and Iteration（left） and Model Accurarcy on Target Domain(right)
-![2_dacc](https://github.com/daoyuan98/MSDA/blob/master/images/2_d_acc.png) ![2_tar_acc](https://github.com/daoyuan98/MSDA/blob/master/images/2_tar_acc.png)
+<center class="half">
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_d_acc.png" width="350"/>
+    <img src="https://github.com/daoyuan98/MSDA/blob/master/images/2_tar_acc.png" width="350"/>
+</center>
