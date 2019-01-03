@@ -1,7 +1,7 @@
 # MSDA
 ### A soft version of MSDA
 
-** Python 3.6 + Tensorflow 1.12.0 ** 
+**Python 3.6 + Tensorflow 1.12.0** 
 
 This repo has implemented digits classification experiments in the paper: Multiple Source Domain Adaptation with Adversarial Learning[https://arxiv.org/abs/1705.09684]
 
